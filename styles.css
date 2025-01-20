@@ -105,7 +105,7 @@ body {
 
 /* Section boxes */
 .box {
-    background-color: rgba(205, 32, 31); /* Light dark background for content */
+    background-color: rgba(255, 255, 255); /* Light dark background for content */
     border: 1px solid #ddd;
     padding: 30px;
     margin-bottom: 30px;
@@ -116,7 +116,7 @@ body {
 }
 
 .box h2 {
-    color: #fff;
+    color: rgba(205, 32, 31);
     font-size: 2rem;
     margin-bottom: 20px;
 }
@@ -131,7 +131,7 @@ body {
 }
 
 .box ul li a {
-    color: #fff;
+    color: #000;
     text-decoration: none;
 }
 
