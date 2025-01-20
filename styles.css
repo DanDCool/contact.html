@@ -121,6 +121,12 @@ body {
     margin-bottom: 20px;
 }
 
+.box h3, .box p {
+    color: rgba(205, 32, 31); /* Set h3 and p text color to match h2 */
+    font-size: 1.5rem; /* Adjust font size if needed */
+    margin-bottom: 15px; /* Adjust margin if needed */
+}
+
 .box ul {
     list-style-type: none;
 }
